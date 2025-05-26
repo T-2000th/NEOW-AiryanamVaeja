@@ -1057,8 +1057,8 @@ indian_group = {
 	}
 	
 	aryayasna = {
-		graphical_culture = hindugfx
-		secondary_event_pictures = sunni
+		graphical_culture = persiangfx
+		secondary_event_pictures = zoroastrian
 		
 		icon = 77
 		heresy_icon = 111
