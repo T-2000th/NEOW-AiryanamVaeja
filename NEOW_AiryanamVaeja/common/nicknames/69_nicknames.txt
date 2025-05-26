@@ -1,0 +1,17 @@
+#############################################
+# CHARACTER NICKNAMES
+# Independent dukes, kings and emperors only
+#
+# 'factor' is the percentage per year of 
+# gaining the nickname
+#
+#############################################
+
+# TRIGGERED ONLY
+################
+
+nick_the_rekindler = {}
+
+
+# GIVEN BY TRAITS
+#################

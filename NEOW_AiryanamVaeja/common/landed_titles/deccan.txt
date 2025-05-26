@@ -1,0 +1,999 @@
+e_deccan = {
+	
+	color = { 229 172 0 }
+	color2 = { 200 0 0 }
+	
+	capital = 1218 # Alampur
+	
+	allow = {
+		doesnt_holds_special_empire = yes
+	}
+	k_karnata = {
+		color = { 234 188 4 }
+		color2 = { 255 255 255 }
+		
+		capital = 1143 # Kalyani
+		angrezi = "Maicaure"
+		british = "Cernatycka"
+        brytwysher = "Cernatecka"
+		ulsterite = "Mysore"
+		westlander = "Mysore"
+		southlander = "Mysore"
+		
+		parabrahmanist = 4500
+		
+		d_kalyani = {
+			color = { 207 204 3 } #{ 110 25 2 }
+			color2 = { 255 255 255 }
+			
+			capital = 1143 # Kalyani
+			
+			c_kalyani = {
+				color = { 237 204 3 } #{ 110 25 22 }
+				color2 = { 255 255 255 }
+				
+				b_kalyani = {
+				}
+				b_narayanapur = {
+				}
+				b_umapur = {
+				}
+				b_hanakuni = {
+				}
+				b_ausa = {
+				}
+				b_sarsala = { # Fictional - For Prosperity
+				}
+				b_sarseir = { # Fictional - For Prosperity
+				}
+			}
+			c_bidar = {
+				color = { 237 204 3 } #{ 110 45 2 }
+				color2 = { 255 255 255 }
+				
+				b_bidar = {
+				}
+				b_avarwadi = {
+				}
+				b_kamthana = {
+				}
+				b_bhalki = {
+				}
+				b_jalasangvi = {
+				}
+				b_bhatambra = {
+				}
+				b_tekadee = {
+				}
+			}
+			c_manyakheta = {
+				color = { 237 204 3 } #{ 130 25 2 }
+				color2 = { 255 255 255 }
+				
+				b_manyakheta = {
+				}
+				b_yadavagiri = {
+				}
+				b_sedam = {
+				}
+				b_gulbarga = {
+				}
+				b_kovilkonda = {
+				}
+				b_firuzabad = {
+				}
+				b_saongi = { # Fictional - For Prosperity
+				}
+			}
+			c_sagar = {
+				color = { 237 204 3 } #{ 90 25 2 }
+				color2 = { 255 255 255 }
+				
+				b_sagar = {
+				}
+				b_bagavadi = {
+				}
+				b_pattadakal = {
+				}
+				b_talikota = {
+				}
+				b_sorapur = {
+				}
+				b_bagpura = { # Fictional - For Prosperity
+				}
+				b_bandaguda = { # Fictional - For Prosperity
+				}
+			}
+		}
+		d_gangavadi = {
+			color = { 237 174 3 } #{ 108 23 29 }
+			color2 = { 255 255 255 }
+			
+			capital = 1196 # Srirangapatna
+			
+			c_srirangapatna = {
+				color = { 237 204 3 } #{ 108 23 49 }
+				color2 = { 255 255 255 }
+				
+				holy_site = jain
+
+				b_srirangapatna = {
+				}
+				b_shravanabelagola = {
+				}
+				b_periyapatna = {
+				}
+				b_panasoge = {
+				}
+				b_nanjarayapattana = {
+				}
+				b_belapura = {
+				}
+				b_mysore = {
+				    british = "Myswr"
+                    brytwysher = "Mysuwr"
+				    kannada = "Mysuru"
+				}
+			}
+			c_talakad = {
+				color = { 237 204 3 } #{ 108 43 29 }
+				color2 = { 255 255 255 }
+				
+				b_talakad = {
+				}
+				b_veppur = {
+				}
+				b_somanathapura = {
+				}
+				b_ummattur = {
+				    british = "Emmetwr"
+                    brytwysher = "Emmetuwr"
+				}
+				b_sivasamudram = {
+				}
+				b_kotagiri = {
+				}
+				b_narasamangala = {
+				}
+				b_nanjangud = {
+				}
+			}
+			c_manyapura = {
+				color = { 237 204 3 } #{ 128 23 29 }
+				color2 = { 255 255 255 }
+				
+				b_manyapura = {
+				}
+				b_aralaguppe = {
+				}
+				b_turuvekere = {
+				}
+				b_kikkeri = {
+				}
+				b_melukote = {
+				}
+				b_govindanahalli = {
+				}
+				b_basaralu = {
+				}
+			}
+			c_nandagiri = {
+				color = { 237 204 3 } #{ 88 23 29 }
+				color2 = { 255 255 255 }
+				
+				b_nandagiri = {
+				}
+				b_kuvalala = {
+				}
+				b_avani = {
+				}
+				b_kundani = {
+				}
+				b_nangali = {
+				}
+				b_kurudumale = {
+				}
+				b_mulavagil = {
+				}
+			}
+		}
+		d_nulambavadi = {
+			color = { 237 204 33 } #{ 178 93 29 }
+			color2 = { 255 255 255 }
+			
+			capital = 1197 # Dwarasamudra
+			
+			
+			c_uchangidurga = {
+				color = { 237 204 3 } #{ 178 93 49 }
+				color2 = { 255 255 255 }
+				
+				b_uchangidurga = {
+				}
+				b_parivi = {
+				}
+				b_hemavati = {
+				}
+				b_sira = {
+				}
+				b_harihar = {
+				}
+				b_chitradurga = {
+				}
+				b_nidugallu = {
+				}
+			}
+			c_dwarasamudra = {
+				color = { 237 204 3 } #{ 178 113 29 }
+				color2 = { 255 255 255 }
+				
+				b_dwarasamudra = {
+				}
+				b_belur = {
+				}
+				b_sosavur = {
+				}
+				b_hassan = {
+				}
+				b_koravangala = {
+				}
+				b_arasikere = {
+				}
+				b_javagallu = {
+				}
+			}
+			c_chikkalballapura = {
+				color = { 237 204 3 } #{ 178 113 29 }
+				color2 = { 255 255 255 }
+				
+				b_chikkalballapura = {}
+				b_gudibanda = {}
+				b_bagepalli = {}
+				b_chintamani = {}
+				b_hoskote = {}
+				b_hindupuram = {}
+				b_gorantia = {}
+			}
+			c_alampur = {
+				color = { 237 204 3 } #{ 158 93 29 }
+				color2 = { 255 255 255 }
+				
+				holy_site = nasrini
+				holy_site = parabrahmanist
+				
+				b_alampur = {
+				}
+				b_gooty = {
+				}
+				b_kampili = {
+				}
+				b_hampi = {
+				}
+				b_adavani = {
+				}
+				b_ittagi = {
+				}
+				b_vijayanagara = {
+				}
+			}
+		}
+		d_raichur_doab = {
+			color = { 255 204 3 } #{ 188 133 35 }
+			color2 = { 255 255 255 }
+			
+			capital = 1203 # Idatarainadu
+			
+			c_idatarainadu = {
+				color = { 237 204 3 } #{ 188 153 35 }
+				color2 = { 255 255 255 }
+				
+				b_mudgal = {
+				}
+				b_gabburu = {
+				}
+				b_raichur = {
+				}
+				b_jaladurga = {
+				}
+				b_hemagudda = {
+				}
+				b_kammatadurga = {
+				}
+				b_manvi = {
+				}
+			}
+			c_kudalasangama = {
+				color = { 237 204 3 } #{ 168 133 35 }
+				color2 = { 255 255 255 }
+				
+				b_kudalasangama = {
+				}
+				b_adihal = {
+				}
+				b_musangi = {
+				}
+				b_anegundi = {
+				}
+				b_bagali = {
+				}
+				b_kuknur = {
+				}
+				b_dambal = {
+				}
+			}
+			c_kodagu = {
+				color = { 237 204 3 } #{ 168 133 35 }
+				color2 = { 255 255 255 }
+				
+				b_madikeri = {}
+				b_napoklu = {}
+				b_sampaje = {}
+				b_somwarpet = {}
+				b_siddapura = {}
+				b_virajpet = {}
+				b_gonikoppa = {}
+			}
+			c_banavasi = {
+				color = { 237 204 3 } #{ 188 133 55 }
+				color2 = { 255 255 255 }
+				
+				b_vaijayanti = {
+				}
+				b_hangal = {
+				}
+				b_balligavi = {
+				}
+				b_vankapura = {
+				}
+				b_lakkundi = {
+				}
+				b_candragutti = {
+				}
+				b_kuruvatti = {
+				}
+				b_ikkeri = {
+				}
+				b_sringeri = {
+				}
+			}
+			c_vatapi = {
+				color = { 237 204 3 } #{ 188 113 35 }
+				color2 = { 255 255 255 }
+				
+				b_vatapi = {
+				}
+				b_venugrama = {
+				}
+				b_parasgad = {
+				}
+				b_aihole = {
+				}
+				b_halasi = {
+				}
+				b_dharwar = {
+				}
+				b_bagalkot = {
+				}
+			}
+		}
+	}
+	k_maharastra = {
+		color = { 255 151 0 } # { 255 151 0 }
+		color2 = { 255 255 255 }
+		
+		capital = 1145 # Devagiri
+		
+	    british = "Greater Mwymbay"
+        brytwysher = "Greater Mwembai"
+		ulsterite = "Eastern Bombay"
+	    westlander = "Eastern Bombay"
+	    southlander = "Eastern Bombay"
+		
+		parabrahmanist = 4000 #Dharmayudda Weight
+		
+		
+		d_pune = {
+			color = { 255 121 30 } # { 120 50 90 }
+			color2 = { 255 255 255 }
+			
+			capital = 2633 # Pune
+			culture = marathi
+			c_kondana = {
+				color = { 255 121 30 } # { 120 70 90 }
+				color2 = { 255 255 255 }
+				
+				b_kondana = {
+				}
+				b_puna = {
+				}
+				b_bhimashankara = {
+				}
+				b_chakan = {
+				}
+				b_junir = {
+				}
+				b_raigad = {
+				}
+				b_purandar = {
+				}
+				b_tikona = {
+				}
+				b_rajmachi = {
+				}
+				b_sudhagad = {
+				}
+			}
+			c_kolhapur = {
+				color = { 255 121 30 } # { 255 70 180 }
+				color2 = { 255 255 255 }
+				
+				b_kolhapur = {
+				}
+				b_kurundaka = {
+				}
+				b_karahataka = {
+				}
+				b_pranala = {
+				}
+				b_satara = {
+				}
+				b_manapura = {
+				}
+				b_miraj = {
+				}
+			}
+			c_pune = {
+				color = { 255 121 30 } # { 255 70 180 }
+				color2 = { 255 255 255 }
+				
+				b_pune = {}
+				b_kurali = {}
+				b_nasrapur = {}
+				b_saswad = {}
+				b_pabal = {}
+				b_shikrapur = {}
+				b_yavat = {}
+			}
+		}
+		d_nasikya = {
+			color = { 255 101 0 } # { 120 50 90 }
+			color2 = { 255 255 255 }
+			
+			capital = 1260 # Naskiya
+			culture = marathi
+			
+			c_nasikya = {
+				color = { 255 101 0 } # { 140 50 90 }
+				color2 = { 255 255 255 }
+				
+				b_nasikya = {
+				}
+				b_seunapura = {
+				}
+				b_patta = {
+				}
+				b_saptashrungi = {
+				}
+				b_ratangad = {
+				}
+				b_igatpuri = {
+				}
+				b_tryambaka = {
+				}
+			}
+			c_nandurbar = {
+				color = { 255 101 0 } # { 120 50 110 }
+				color2 = { 255 255 255 }
+				
+				b_nandurbar = {
+				}
+				b_bhambhagiri = {
+				}
+				b_chandor = {
+				}
+				b_malegaon = {
+				}
+				b_songarh = {
+				}
+				b_sultanpur = {
+				}
+				b_mayuragiri = {
+				}
+			}
+		}
+		d_devagiri = {
+			color = { 255 121 0 } # { 220 99 85 }
+			color2 = { 255 255 255 }
+			
+			capital = 1145 # Devagiri
+			
+			c_devagiri = {
+				color = { 255 151 0 } # { 220 119 85 }
+				color2 = { 255 255 255 }
+				
+				holy_site = navayana
+				
+								
+				b_devagiri = {
+				}
+				b_ellora = {
+				}
+				b_khuldabad = {
+				}
+				b_grishneshwar = {
+				}
+				b_sillod = {
+				}
+				b_vaijapur = {
+				}
+				b_bangra = { # Fictional - For Prosperity
+				}
+			}
+			c_pratishthana = {
+				color = { 255 151 0 } # { 220 99 115 }
+				color2 = { 255 255 255 }
+				
+				holy_site = navayana
+				
+				b_pratishthana = {
+				}
+				b_harishchandragad = {
+				}
+				b_chambargonda = {
+				}
+				b_patkapur = {
+				}
+				b_bhingar = {
+				}
+				b_ahmednagar = {
+				}
+				b_pochannapet = { # Fictional - For Prosperity
+				}
+			}
+		}
+		d_parnakheta = {
+			color = { 255 121 30 } # { 255 70 160 }
+			color2 = { 255 255 255 }
+			
+			capital = 1261 # Parnakheta
+			c_parnakheta = {
+				color = { 255 121 30 } # { 220 79 85 }
+				color2 = { 255 255 255 }
+				
+				b_parnakheta = {
+				}
+				b_akola1 = {
+				}
+				b_mahkar = {
+				}
+				b_ambadapura = {
+				}
+				b_karanja = {
+				}
+				b_buldhana = {
+				}
+				b_betora = { # Fictional - For Prosperity
+				}
+			}
+			c_akola = {
+				color = { 255 121 30 } # { 220 79 85 }
+				color2 = { 255 255 255 }
+				
+				b_akola = {}
+				b_kapshi = {}
+				b_ridhora = {}
+				b_nimba = {}
+				b_chohatta = {}
+				b_pinjar = {}
+				b_telhara = {}
+			}
+			c_vatsagulma = {
+				color = { 255 121 30 } # { 200 99 85 }
+				color2 = { 255 255 255 }
+				
+				b_vatsagulma = {
+				}
+				b_jalna = {
+				}
+				b_satgaon = {
+				}
+				b_lonar = {
+				}
+				b_manora = {
+				}
+				b_nandura = {
+				}
+				b_puduchattiram = { # Fictional - For Prosperity
+				}
+			}
+			c_burhanpur = {
+				color = { 255 121 30 } # { 150 90 5 }
+				color2 = { 255 255 255 }
+				
+				b_burhanpur = {
+				}
+				b_erandol = {
+				}
+				b_vaghli = {
+				}
+				b_changdev = {
+				}
+				b_yawal = {
+				}
+				b_halgeri = { # Fictional - For Prosperity
+				}
+				b_jargaon = { # Fictional - For Prosperity #
+				}
+			}
+		}
+		
+		d_nanded = {
+			color = { 255 171 35 } # { 255 70 160 }
+			color2 = { 255 255 255 }
+			
+			capital = 1258 # Nanded
+			
+			c_nanded = {
+				color = { 255 121 30 } # { 230 99 95 }
+				color2 = { 255 255 255 }
+				holy_site = sikh
+				b_nanded = {
+				}
+				b_aurad = {
+				}
+				b_qandhar = {
+				}
+				b_shelgaon = {
+				}
+				b_pathri = {
+				}
+				b_parbhani = {
+				}
+				b_balol = { # Fictional - For Prosperity
+				}
+			}
+			c_yavatmal = {
+				color = { 255 121 30 } # { 230 99 95 }
+				color2 = { 255 255 255 }
+				
+				b_yavatmal_2 = {}
+				b_waghapur = {}
+				b_kinhi = {}
+				b_bhosa = {}
+				b_moha = {}
+				b_talegaon = {}
+				b_sawar = {}
+			}
+		}
+		d_rattapadi = {
+			color = { 255 151 30 } # { 255 70 160 }
+			color2 = { 255 255 255 }
+			
+			capital = 1206 # Taradavadi
+			
+			c_lattalura = {
+				color = { 255 151 0 } # { 235 70 160 }
+				color2 = { 255 255 255 }
+				
+				b_lattalura = {
+				}
+				b_bir = {
+				}
+				b_barshi = {
+				}
+				b_udgir = {
+				}
+				b_tagara = {
+				}
+				b_darur = {
+				}
+				b_bangi = { # Fictional - For Prosperity
+				}
+			}
+			c_naldurg = {
+				color = { 255 151 0 } # { 255 90 160 }
+				color2 = { 255 255 255 }
+				
+				b_naldurg = {
+				}
+				b_sonnalagi = {
+				}
+				b_tuljapur = {
+				}
+				b_paranda = {
+				}
+				b_karmala = {
+				}
+				b_dharaseo = {
+				}
+				b_baniagaon = { # Fictional - For Prosperity
+				}
+			}
+			c_gadag = {
+				color = { 255 151 0 } # { 255 90 160 }
+				color2 = { 255 255 255 }
+				
+				b_gadag = {}
+				b_hulkoti = {}
+				b_hombal = {}
+				b_lakkundi_2 = {}
+				b_huilgol = {}
+				b_doni = {}
+				b_kurtakoti = {}
+			}
+			c_taradavadi = {
+				color = { 255 151 0 } # { 255 70 160 }
+				color2 = { 255 255 255 }
+				
+				b_taradavadi = {
+				}
+				b_viyapura = {
+				}
+				b_saundatti = {
+				}
+				b_hastikundi = {
+				}
+				b_pandharpur = {
+				}
+				b_sangole = {
+				}
+				b_karambakkudi = { # Fictional - For Prosperity
+				}
+			}
+		}
+	}	
+	k_mumbai = {
+		color = { 57 22 229 } # { 150 45 140 }
+		color2 = { 140 45 150 }
+		
+		#title = "MUMBAI_REPUBLIC_LEADER"
+		#title_female = "MUMBAI_REPUBLIC_LEADER_FEMALE"
+		#foa = "MUMBAI_REPUBLIC_LEADER_FOA"
+	
+		yoonaanee = "Naya Yunania"
+		greek = "Néa Ionía"
+		makedonas = "Néa Ionía"
+		aigionoi = "Néa Ionía"
+		rodiaki = "Néa Ionía"
+		cypriote = "Néa Ionía"
+		griko = "Néa Ionía"
+		pontian = "Néa Ionía"
+		rumca = "Néa Ionía"
+		atlantian = "Néa Ionía"
+		macedonian = "Néa Ionía"
+		arvanitika = "Néa Ionía"
+		grekter = "Néa Ionía"
+		tsakonian = "Néa Ionía"
+		konkani = "Konkan"
+		mumbaikar = "Mumbai"
+		hindustani = "Samundar"
+		
+		parabrahmanist = 5000 #Dharmayudda Weight
+		
+		capital = 2034 # Mumbai
+		culture = mumbaikar
+		d_thana = {
+			color = { 44 25 255 } # { 150 45 140 }
+			color2 = { 255 255 255 }
+			
+			yoonaanee = "Thanapuli"
+			greek = "Thanopolis"
+			makedonas = "Thanopolis"
+			aigionoi = "Thanopolis"
+			rodiaki = "Thanopolis"
+			cypriote = "Thanopolis"
+			griko = "Thanopolis"
+			pontian = "Thanopolis"
+			rumca = "Thanopolis"
+			atlantian = "Thanopolis"
+			macedonian = "Thanopolis"
+			arvanitika = "Thanopolis"
+			grekter = "Thanopolis"
+			tsakonian = "Thanopolis"
+			
+			capital = 1125 # el
+			culture = mumbaikar
+			c_valsad = {
+				color = { 35 20 204 } # { 115 40 40 }
+				color2 = { 255 255 255 }
+
+				b_valsad = {}
+				b_vapi = {}
+				b_dadra = {}
+				b_silvassa = {}
+				b_dungra = {}
+				b_ambach = {}
+				b_gadad = {}
+			}
+			c_daman = {
+				color = { 40 22 229 } # { 220 150 90 }
+				color2 = { 255 255 255 }
+				
+				holy_site = aryayasna
+				
+				konkani = "Damão"
+				
+				b_daman = {
+					konkani = "Damão"
+				}
+				b_sanjan = {
+				}
+				b_surparaka = {
+				}
+				b_nagar_haveli = {
+				}
+				b_pardi = {
+				}
+				b_bulsar = {
+				}
+				b_ramnagar = {
+				}
+			}
+			c_thana = {
+				color = { 67 50 255 } # { 100 20 40 }
+				color2 = { 255 255 255 }
+				
+				yoonaanee = "Thanapuli"
+		        greek = "Thanopolis"
+				makedonas = "Thanopolis"
+				aigionoi = "Thanopolis"
+				rodiaki = "Thanopolis"
+				cypriote = "Thanopolis"
+				griko = "Thanopolis"
+				pontian = "Thanopolis"
+				rumca = "Thanopolis"
+				atlantian = "Thanopolis"
+				macedonian = "Thanopolis"
+				arvanitika = "Thanopolis"
+				grekter = "Thanopolis"
+				tsakonian = "Thanopolis"
+				
+				b_thana = {
+				    yoonaanee = "Thanapuli"
+		            greek = "Thanopolis"
+					makedonas = "Thanopolis"
+					aigionoi = "Thanopolis"
+					rodiaki = "Thanopolis"
+					cypriote = "Thanopolis"
+					griko = "Thanopolis"
+					pontian = "Thanopolis"
+					rumca = "Thanopolis"
+					atlantian = "Thanopolis"
+					macedonian = "Thanopolis"
+					arvanitika = "Thanopolis"
+					grekter = "Thanopolis"
+					tsakonian = "Thanopolis"
+				}
+				b_dabhol = {
+				}
+				b_kanhagiri = {
+				}
+				b_chaul = {
+				}
+				b_mahim = {
+				}
+				b_bassein = {
+					konkani = "Baçaím"
+				}
+				b_janjira = {
+				# If you're looking to add more cultures, here's an idea
+				# "Siddi" culture in the Indo-Aryan group with westafrican gfx
+				# And make someone with this culture and of the "Habshi" dynasty rule this barony
+				}
+			}
+		}
+		d_konkana = {
+			color = { 81 40 204 } # { 150 45 140 }
+			color2 = { 255 255 255 }
+			
+			capital = 2034 # Mumbai
+			culture = konkani
+			
+			c_goa = {
+				color = { 91 45 229 } # { 115 40 40 }
+				color2 = { 255 255 255 }
+				holy_site = nasrini
+				holy_site = aryayasna
+
+				b_gopakapattana = {
+				}
+				b_gheria = {
+				}
+				b_mathagram = {
+				}
+				b_kapardikadvipa = {
+				}
+				b_chandrapur = {
+				}
+				b_chitrakul = {
+				}
+				b_kapurgarh = { # Fictional - For Prosperity
+				}
+			}
+			c_mumbai = {
+				color = { 71 35 178 } # { 150 45 140 }
+				color2 = { 255 255 255 }
+				#angrezi = "Bonbei"
+				british = "Mwymbay"
+                brytwysher = "Mwembai"
+				ulsterite = "Bombay"
+	            westlander = "Bombay"
+	            southlander = "Bombay"
+				konkani = "Bom Baim"
+				
+				holy_site = navayana
+				holy_site = dahatatta
+				holy_site = blorgist
+				holy_site = sarvodaya
+				holy_site = parabrahmanist
+				
+				b_mumbai = {
+				    #angrezi = "Bonbei"
+					british = "Mwymbay"
+                    brytwysher = "Mwembai"
+					ulsterite = "Bombay"
+	                westlander = "Bombay"
+	                southlander = "Bombay"
+					konkani = "Bom Baim"
+				}
+				b_navi_mumbai = {
+					#angrezi = "Nevonbei"
+				    british = "Nowy Mwymbay"
+                    brytwysher = "Nowy Mwembai"
+					ulsterite = "New Bombay"
+	                westlander = "New Bombay"
+	                southlander = "New Bombay"
+					konkani = "Bom Baim"
+				}
+				b_colaba = {
+				}
+				b_powai = {
+				}
+				b_dadar = {
+				}
+				b_juhu = {
+				}
+				b_bandra = {
+				}
+			}
+			c_raigad = {
+				color = { 101 50 255 } # { 115 20 60 }
+				color2 = { 255 255 255 }
+				
+				b_alibag = {
+				}
+				b_pachad = {
+				}
+				b_koturde = {
+				}
+				b_padavi = {
+				}
+				b_kumbhe = {
+				}
+				b_karnavadi = {
+				}
+				b_mandangad = { 
+				}
+			}
+			c_honnore = {
+				color = { 61 30 153 } # { 115 20 60 }
+				color2 = { 255 255 255 }
+				
+				b_honnore = {
+				}
+				b_bhatkal = {
+				}
+				b_gokarna = {
+				}
+				b_barkur = {
+				}
+				b_mookambika = {
+				}
+				b_karwar = {
+				}
+				b_balisna = { # Fictional - For Prosperity
+				}
+			}
+		}
+	}
+}
